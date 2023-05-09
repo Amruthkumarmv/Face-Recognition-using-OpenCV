@@ -1,3 +1,3 @@
--Install python 3.8 present in /_pycache_/ \
+-Install python 3.8 \
 -Insert the images to be recognized in /images \
 -run main_video.py 
